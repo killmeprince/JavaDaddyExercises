@@ -12,3 +12,4 @@
 
 - Класс должен называться LambdaArraySortDemo.
 - Файл: LambdaArraySortDemo.java.
+s
